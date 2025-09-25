@@ -15,7 +15,7 @@ This project demonstrates an end-to-end machine learning pipeline for classifica
 
 ## 🚀 How to Run
 ```bash
-# Clone the repo
+#Clone the repo
 git clone https://github.com/yourusername/classification-pipeline-portfolio.git
 cd classification-pipeline-portfolio
 

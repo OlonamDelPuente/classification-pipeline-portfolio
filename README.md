@@ -1,7 +1,10 @@
 # classification-pipeline-portfolio
 “End-to-end machine learning classification pipeline with reproducible deployment and containerization.”
 
-# Classification Pipeline Portfolio
+![Python](https://img.shields.io/badge/python-3.10-blue)
+
+![License](https://img.shields.io/github/license/yourusername/classification-pipeline-portfolio)
+
 
 ## 🔍 Overview
 This project demonstrates an end-to-end machine learning pipeline for classification tasks using Python, scikit-learn, and Docker. It includes data ingestion, preprocessing, model training, evaluation, and deployment.
